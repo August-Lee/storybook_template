@@ -1,0 +1,17 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "storybook ui视图",
+  "main": "index.js",
+  "scripts": {
+    "build": "sh build.sh"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "storybook"
+  ],
+  "author": "lijianan",
+  "license": "ISC"
+}
